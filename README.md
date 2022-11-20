@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ndandax
+- 👋 Hi, I’m @ndandax
 - 👀 I’m interested in coding and cybersecurity
 - 🌱 I’m currently learning different programming languages
 - 💞️ I’m looking to collaborate on cybersecurity
