@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ndandax
-- 👀 I’m interested in coding and cybersecurity
+- 👀 I’m interested in software engineering and cybersecurity
 - 🌱 I’m currently learning different programming languages
-- 💞️ I’m looking to collaborate on cybersecurity
+- 💞️ I’m looking to collaborate on software engineering and cybersecurity
 - 📫 How to reach me sebandandala99@gmail.com
 
 <!---
