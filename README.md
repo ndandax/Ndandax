@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ndandax
-- 👀 I’m interested in software engineering and cybersecurity
-- 🌱 I’m currently learning different programming languages
-- 💞️ I’m looking to collaborate on software engineering and cybersecurity
-- 📫 How to reach me sebandandala99@gmail.com
+- 👀 I’m interested in software engineering, AI and cybersecurity
+- 💞️ I’m looking to collaborate on software engineering, AI and cybersecurity
+- 📫 How to reach me: connect@sebandandala.com or sebandandala99@gmail.com 
 
 <!---
 Ndandax/Ndandax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
